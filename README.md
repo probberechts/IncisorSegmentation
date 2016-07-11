@@ -3,6 +3,9 @@
 Implementation and evaluation of a model-based segmentation approach, capable
 of segmenting the upper and lower incisors in panoramic radiographs. 
 
+![example](https://raw.githubusercontent.com/probberechts/IncisorSegmentation/master/Plot/Results/02.png)
+
+###Usage
 ```shell 
 $ python Code/main.py --help
 usage: main.py [-h] [-p] [-d] [-f {auto,manual}] [-k K] [-m M] [-o OUT]
